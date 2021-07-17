@@ -1,0 +1,10 @@
+api: 0,0
+main: racer.fund.main
+name: floodPacketDog
+version: '1.1'
+depend: [ProtocolLib]
+
+commands:
+   fpdinfo:
+      description: Switch the infoLog on console
+      usage: /fpdinfo on & /fpdinfo off
